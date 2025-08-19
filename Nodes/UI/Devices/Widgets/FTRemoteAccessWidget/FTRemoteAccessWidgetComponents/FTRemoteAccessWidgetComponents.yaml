@@ -47,7 +47,7 @@ Children:
     - Name: Kind
       Type: PropertyType
       DataType: NodeId
-      Value: "/Objects/IXOM_Client_HMI4/UI/Widgets/FTRemoteAccessWidget/FTRemoteAccessWidgetComponents/FTRemoteAccessWidgetDataObject"
+      Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Widgets/FTRemoteAccessWidget/FTRemoteAccessWidgetComponents/FTRemoteAccessWidgetDataObject"
   - Name: HorizontalAlignment
     Type: BaseVariableType
     DataType: HorizontalAlignment
@@ -670,7 +670,7 @@ Children:
             Type: BaseDataVariableType
             DataType: NodeId
             ReferenceType: HasParameter
-            Value: "/Objects/IXOM_Client_HMI4/UI/Widgets/FTRemoteAccessWidget/FTRemoteAccessWidgetComponents/EmptyPanel"
+            Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Widgets/FTRemoteAccessWidget/FTRemoteAccessWidgetComponents/EmptyPanel"
           - Name: FalseValue
             Type: BaseDataVariableType
             DataType: NodeId
@@ -737,7 +737,7 @@ Children:
                     Type: BaseDataVariableType
                     DataType: NodeId
                     ReferenceType: HasParameter
-                    Value: "/Objects/IXOM_Client_HMI4/UI/Widgets/FTRemoteAccessWidget/FTRemoteAccessWidgetComponents/NewConnectionCredentialsPanel"
+                    Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Widgets/FTRemoteAccessWidget/FTRemoteAccessWidgetComponents/NewConnectionCredentialsPanel"
                   - Name: FalseValue
                     Type: BaseDataVariableType
                     DataType: NodeId
@@ -773,17 +773,17 @@ Children:
                         Type: BaseDataVariableType
                         DataType: NodeId
                         ReferenceType: HasParameter
-                        Value: "/Objects/IXOM_Client_HMI4/UI/Widgets/FTRemoteAccessWidget/FTRemoteAccessWidgetComponents/AcceptDenyIncomingRequestPanel"
+                        Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Widgets/FTRemoteAccessWidget/FTRemoteAccessWidgetComponents/AcceptDenyIncomingRequestPanel"
                       - Name: FalseValue
                         Type: BaseDataVariableType
                         DataType: NodeId
                         ReferenceType: HasParameter
-                        Value: "/Objects/IXOM_Client_HMI4/UI/Widgets/FTRemoteAccessWidget/FTRemoteAccessWidgetComponents/EmptyPanel"
+                        Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Widgets/FTRemoteAccessWidget/FTRemoteAccessWidgetComponents/EmptyPanel"
               - Name: FalseValue
                 Type: BaseDataVariableType
                 DataType: NodeId
                 ReferenceType: HasParameter
-                Value: "/Objects/IXOM_Client_HMI4/UI/Widgets/FTRemoteAccessWidget/FTRemoteAccessWidgetComponents/EmptyPanel"
+                Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Widgets/FTRemoteAccessWidget/FTRemoteAccessWidgetComponents/EmptyPanel"
       - Name: CurrentPanel
         Type: NodePointer
         DataType: NodeId
@@ -891,7 +891,7 @@ Children:
     - Name: Kind
       Type: PropertyType
       DataType: NodeId
-      Value: "/Objects/IXOM_Client_HMI4/UI/Widgets/FTRemoteAccessWidget/FTRemoteAccessWidgetComponents/FTRemoteAccessWidgetDataObject"
+      Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Widgets/FTRemoteAccessWidget/FTRemoteAccessWidgetComponents/FTRemoteAccessWidgetDataObject"
   - Name: IncomingConnectionApprovalLogic
     Type: NetLogic
     Children:
@@ -1264,7 +1264,7 @@ Children:
     - Name: Kind
       Type: PropertyType
       DataType: NodeId
-      Value: "/Objects/IXOM_Client_HMI4/UI/Widgets/FTRemoteAccessWidget/FTRemoteAccessWidgetComponents/FTRemoteAccessWidgetDataObject"
+      Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Widgets/FTRemoteAccessWidget/FTRemoteAccessWidgetComponents/FTRemoteAccessWidgetDataObject"
   - Name: VerticalLayout2
     Type: ColumnLayout
     Children:
@@ -1606,12 +1606,12 @@ Children:
           Type: BaseDataVariableType
           DataType: NodeId
           ReferenceType: HasParameter
-          Value: "/Objects/IXOM_Client_HMI4/UI/Widgets/FTRemoteAccessWidget/FTRemoteAccessWidgetComponents/RequestAssistanceEnabledPanel"
+          Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Widgets/FTRemoteAccessWidget/FTRemoteAccessWidgetComponents/RequestAssistanceEnabledPanel"
         - Name: FalseValue
           Type: BaseDataVariableType
           DataType: NodeId
           ReferenceType: HasParameter
-          Value: "/Objects/IXOM_Client_HMI4/UI/Widgets/FTRemoteAccessWidget/FTRemoteAccessWidgetComponents/RequestAssistanceDisabledPanel"
+          Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Widgets/FTRemoteAccessWidget/FTRemoteAccessWidgetComponents/RequestAssistanceDisabledPanel"
     - Name: CurrentPanel
       Type: NodePointer
       DataType: NodeId
@@ -1660,7 +1660,7 @@ Children:
     - Name: Kind
       Type: PropertyType
       DataType: NodeId
-      Value: "/Objects/IXOM_Client_HMI4/UI/Widgets/FTRemoteAccessWidget/FTRemoteAccessWidgetComponents/FTRemoteAccessWidgetDataObject"
+      Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Widgets/FTRemoteAccessWidget/FTRemoteAccessWidgetComponents/FTRemoteAccessWidgetDataObject"
   - Name: HorizontalAlignment
     Type: BaseVariableType
     DataType: HorizontalAlignment
@@ -1693,7 +1693,7 @@ Children:
     - Name: Kind
       Type: PropertyType
       DataType: NodeId
-      Value: "/Objects/IXOM_Client_HMI4/UI/Widgets/FTRemoteAccessWidget/FTRemoteAccessWidgetComponents/FTRemoteAccessWidgetDataObject"
+      Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Widgets/FTRemoteAccessWidget/FTRemoteAccessWidgetComponents/FTRemoteAccessWidgetDataObject"
   - Name: VerticalLayout1
     Type: ColumnLayout
     Children:
@@ -2445,7 +2445,7 @@ Children:
     - Name: Kind
       Type: PropertyType
       DataType: NodeId
-      Value: "/Objects/IXOM_Client_HMI4/UI/Widgets/FTRemoteAccessWidget/FTRemoteAccessWidgetComponents/FTRemoteAccessWidgetDataObject"
+      Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Widgets/FTRemoteAccessWidget/FTRemoteAccessWidgetComponents/FTRemoteAccessWidgetDataObject"
 - Name: EmptyPanel
   Id: g=323ecbd80fe0dccc66307959b261f54a
   Supertype: Panel

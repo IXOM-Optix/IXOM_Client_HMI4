@@ -98,6 +98,7 @@ Children:
       DataType: String
       AccessLevel: Read
     - Name: ProtectionModeEnabled
+      Id: g=8a8c7262e4eddb9a34f7fdfb40585124
       Type: BaseDataVariableType
       DataType: Boolean
     - Name: SystemManagerVersion

@@ -47,7 +47,7 @@ Children:
         - Name: Panel
           Type: NodePointer
           DataType: NodeId
-          Value: "/Objects/IXOM_Client_HMI4/UI/Widgets/NetworkSettingsWidget/NetworkSettingsWidget"
+          Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Widgets/NetworkSettingsWidget/NetworkSettingsWidget"
           Children:
           - Name: Kind
             Type: PropertyType
@@ -63,7 +63,7 @@ Children:
         - Name: Panel
           Type: NodePointer
           DataType: NodeId
-          Value: "/Objects/IXOM_Client_HMI4/UI/Widgets/DeviceSettingsWidget/DeviceSettingsWidget"
+          Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Widgets/DeviceSettingsWidget/DeviceSettingsWidget"
           Children:
           - Name: Kind
             Type: PropertyType
@@ -79,7 +79,7 @@ Children:
         - Name: Panel
           Type: NodePointer
           DataType: NodeId
-          Value: "/Objects/IXOM_Client_HMI4/UI/Widgets/LoadApplicationWidget/LoadApplicationWidget"
+          Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Widgets/LoadApplicationWidget/LoadApplicationWidget"
           Children:
           - Name: Kind
             Type: PropertyType
@@ -95,7 +95,7 @@ Children:
         - Name: Panel
           Type: NodePointer
           DataType: NodeId
-          Value: "/Objects/IXOM_Client_HMI4/UI/Widgets/FTRemoteAccessWidget/FTRemoteAccessWidget"
+          Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Widgets/FTRemoteAccessWidget/FTRemoteAccessWidget"
           Children:
           - Name: Kind
             Type: PropertyType

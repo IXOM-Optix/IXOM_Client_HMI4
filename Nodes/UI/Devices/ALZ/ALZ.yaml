@@ -32,7 +32,7 @@ Children:
       - Name: DynamicLink1
         Type: DynamicLink
         DataType: NodePath
-        Value: "/Objects/IXOM_Client_HMI4/UI/Model/Rewind/UTC_DateTime"
+        Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/Rewind/UTC_DateTime"
         Children:
         - Name: Mode
           Type: BaseVariableType
@@ -48,7 +48,7 @@ Children:
     - Name: DynamicLink
       Type: DynamicLink
       DataType: NodePath
-      Value: "/Objects/IXOM_Client_HMI4/UI/Model/Rewind/Enable"
+      Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/Rewind/Enable"
       Children:
       - Name: Mode
         Type: BaseVariableType
@@ -251,7 +251,7 @@ Children:
         - Name: DynamicLink1
           Type: DynamicLink
           DataType: NodePath
-          Value: "/Objects/IXOM_Client_HMI4/UI/Model/Rewind/UTC_DateTime"
+          Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/Rewind/UTC_DateTime"
       - Name: STS
         Type: BaseDataVariableType
         DataType: Int16
@@ -261,7 +261,7 @@ Children:
       - Name: DynamicLink
         Type: DynamicLink
         DataType: NodePath
-        Value: "/Objects/IXOM_Client_HMI4/UI/Model/Rewind/Enable"
+        Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/Rewind/Enable"
     - Name: STS
       Type: BaseDataVariableType
       DataType: Int16
@@ -595,6 +595,10 @@ Children:
     - Class: Reference
       Target: ns=27;i=154
       Direction: Forward
+    - Name: AutoConfirm
+      Type: BaseDataVariableType
+      DataType: Boolean
+      ModellingRule: Optional
   - Name: Out_of_Range
     Type: OffNormalAlarmController
     Children:
@@ -1266,7 +1270,7 @@ Children:
       - Name: DynamicLink
         Type: DynamicLink
         DataType: NodePath
-        Value: "/Objects/IXOM_Client_HMI4/UI/Model/Data_Management/Sampling period"
+        Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/Data_Management/Sampling period"
         Children:
         - Name: Mode
           Type: BaseVariableType
@@ -1288,7 +1292,7 @@ Children:
       - Name: DynamicLink
         Type: DynamicLink
         DataType: NodePath
-        Value: "/Objects/IXOM_Client_HMI4/UI/Model/Data_Management/Polling Time"
+        Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/Data_Management/Polling Time"
         Children:
         - Name: Mode
           Type: BaseVariableType
@@ -1364,7 +1368,7 @@ Children:
       - Name: DynamicLink
         Type: DynamicLink
         DataType: NodePath
-        Value: "/Objects/IXOM_Client_HMI4/UI/Model/Data_Management/Polling Time"
+        Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/Data_Management/Polling Time"
         Children:
         - Name: Mode
           Type: BaseVariableType
@@ -2147,7 +2151,7 @@ Children:
     - Name: DynamicLink
       Type: DynamicLink
       DataType: NodePath
-      Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+      Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
       Children:
       - Name: Mode
         Type: BaseVariableType
@@ -6132,7 +6136,7 @@ Children:
             - Name: DynamicLink
               Type: DynamicLink
               DataType: NodePath
-              Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+              Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
     - Class: Reference
       Target: ns=9;i=1209
     - Class: Reference
@@ -6289,7 +6293,7 @@ Children:
                 Type: BaseDataVariableType
                 DataType: VariablePointer
                 Description: {"NamespaceIndex":7,"TextId":"SetVariableToModifyDescription"}
-                Value: "/Objects/IXOM_Client_HMI4/UI/Model/PDF"
+                Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PDF"
               - Name: Value
                 Type: BaseDataVariableType
                 DataType: ResourceUri
@@ -6435,7 +6439,7 @@ Children:
                 Type: BaseDataVariableType
                 DataType: VariablePointer
                 Description: {"NamespaceIndex":7,"TextId":"SetVariableToModifyDescription"}
-                Value: "/Objects/IXOM_Client_HMI4/UI/Model/URL"
+                Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/URL"
               - Name: Value
                 Type: BaseDataVariableType
                 DataType: String

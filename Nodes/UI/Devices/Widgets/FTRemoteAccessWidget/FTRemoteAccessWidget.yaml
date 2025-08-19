@@ -80,7 +80,7 @@ Children:
                   - Name: DynamicLink
                     Type: DynamicLink
                     DataType: NodePath
-                    Value: "/Objects/IXOM_Client_HMI4/UI/Widgets/FTRemoteAccessWidget/FTRemoteAccessWidgetComponents/ConnectionPanel@BrowseName"
+                    Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Widgets/FTRemoteAccessWidget/FTRemoteAccessWidgetComponents/ConnectionPanel@BrowseName"
             - Name: TrueValue
               Type: BaseDataVariableType
               DataType: LocalizedText
@@ -96,7 +96,7 @@ Children:
         - Name: Panel
           Type: NodePointer
           DataType: NodeId
-          Value: "/Objects/IXOM_Client_HMI4/UI/Widgets/FTRemoteAccessWidget/FTRemoteAccessWidgetComponents/ConnectionPanel"
+          Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Widgets/FTRemoteAccessWidget/FTRemoteAccessWidgetComponents/ConnectionPanel"
           Children:
           - Name: Kind
             Type: PropertyType
@@ -121,7 +121,7 @@ Children:
         - Name: Panel
           Type: NodePointer
           DataType: NodeId
-          Value: "/Objects/IXOM_Client_HMI4/UI/Widgets/FTRemoteAccessWidget/FTRemoteAccessWidgetComponents/RequestAssistancePanel"
+          Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Widgets/FTRemoteAccessWidget/FTRemoteAccessWidgetComponents/RequestAssistancePanel"
           Children:
           - Name: Kind
             Type: PropertyType
@@ -190,7 +190,7 @@ Children:
       - Name: DynamicLink
         Type: DynamicLink
         DataType: NodePath
-        Value: "../../FTRemoteAccessNode@NodeId"
+        Value: "/Objects/IXOM_Client_HMI4/System/FTRemoteAccess@NodeId"
         Children:
         - Name: Mode
           Type: BaseVariableType

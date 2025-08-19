@@ -140,7 +140,7 @@ Children:
               Type: BaseDataVariableType
               DataType: NodeId
               Description: {"NamespaceIndex":9,"TextId":"ChangePanelNewPanelDescription"}
-              Value: "/Objects/IXOM_Client_HMI4/UI/LoginForm1/LoginFormComponents/Login"
+              Value: "/Objects/IXOM_Client_HMI4/UI/Devices/LoginForm/LoginFormComponents/Login"
             - Name: AliasNode
               Type: BaseDataVariableType
               DataType: NodeId
@@ -1189,7 +1189,7 @@ Children:
       Type: BaseDataVariableType
       DataType: LocalizedText
       ModellingRule: Optional
-      Value: {"NamespaceIndex":36,"TextId":"Confirm"}
+      Value: {"LocaleId":"en-US","Text":"Ack All / \nConfirm /All"}
     - Name: Width
       Type: BaseVariableType
       DataType: Size
@@ -1209,7 +1209,6 @@ Children:
       Type: BaseVariableType
       DataType: Size
       ModellingRule: Optional
-      Value: -1.0
     - Name: EventHandler1
       Type: EventHandler
       Children:
@@ -1220,39 +1219,38 @@ Children:
       - Name: MethodsToCall
         Type: BaseObjectType
         Children:
-        - Name: MethodContainer1
+        - Name: MethodContainer2
           Type: BaseObjectType
           Children:
-          - Name: ObjectPointer
+          - Name: ns=7;ObjectPointer
             Type: NodePointer
             DataType: NodeId
+            Value: "/Objects/Commands/AlarmCommands"
             Children:
             - Name: Kind
               Type: PropertyType
               DataType: NodeId
               Value: "/Types/ObjectTypes/BaseObjectType"
-            - Name: NodeClass
-              Type: PropertyType
-              DataType: NodePointerNodeClass
-              ModellingRule: Optional
-              Value: 2
-            - Name: DynamicLink
-              Type: DynamicLink
-              DataType: NodePath
-              Value: "../../../../../AlarmsDataGrid/SelectedItem@NodeId"
-          - Name: Method
+          - Name: ns=7;Method
             Type: BaseDataVariableType
             DataType: String
-            Value: "Confirm"
-          - Name: InputArguments
-            Type: BaseObjectType
+            Value: "AcknowledgeAll"
+        - Name: MethodContainer3
+          Type: BaseObjectType
+          Children:
+          - Name: ns=7;ObjectPointer
+            Type: NodePointer
+            DataType: NodeId
+            Value: "/Objects/Commands/AlarmCommands"
             Children:
-            - Name: EventId
-              Type: BaseDataVariableType
-              DataType: ByteString
-            - Name: Comment
-              Type: BaseDataVariableType
-              DataType: LocalizedText
+            - Name: Kind
+              Type: PropertyType
+              DataType: NodeId
+              Value: "/Types/ObjectTypes/BaseObjectType"
+          - Name: ns=7;Method
+            Type: BaseDataVariableType
+            DataType: String
+            Value: "ConfirmAll"
       - Name: EventArguments
         Type: MouseClickEvent
         Children:
@@ -1320,7 +1318,7 @@ Children:
       Type: BaseDataVariableType
       DataType: LocalizedText
       ModellingRule: Optional
-      Value: {"LocaleId":"en-US","Text":"Acknowledge"}
+      Value: {"LocaleId":"en-US","Text":"Ack / \nConfirm"}
     - Name: Width
       Type: BaseVariableType
       DataType: Size
@@ -1335,7 +1333,6 @@ Children:
       Type: BaseVariableType
       DataType: Size
       ModellingRule: Optional
-      Value: 111.0
     - Name: BottomMargin
       Type: BaseVariableType
       DataType: Size
@@ -1380,6 +1377,42 @@ Children:
             Type: BaseDataVariableType
             DataType: String
             Value: "Acknowledge"
+          - Name: InputArguments
+            Type: BaseObjectType
+            Children:
+            - Name: EventId
+              Type: BaseDataVariableType
+              DataType: ByteString
+              Description: {"LocaleId":"","Text":"The identifier for the event to comment."}
+            - Name: Comment
+              Type: BaseDataVariableType
+              DataType: LocalizedText
+              Description: {"LocaleId":"","Text":"The comment to add to the condition."}
+        - Name: MethodContainer2
+          Type: BaseObjectType
+          Children:
+          - Name: ns=7;ObjectPointer
+            Type: NodePointer
+            DataType: NodeId
+            Children:
+            - Name: Kind
+              Type: PropertyType
+              DataType: NodeId
+              Value: "/Types/ObjectTypes/BaseObjectType"
+            - Name: DynamicLink
+              Type: DynamicLink
+              DataType: NodePath
+              Value: "../../../../../AlarmsDataGrid/SelectedItem@NodeId"
+              Children:
+              - Name: Mode
+                Type: BaseVariableType
+                DataType: DynamicLinkMode
+                ModellingRule: Optional
+                Value: 2
+          - Name: ns=7;Method
+            Type: BaseDataVariableType
+            DataType: String
+            Value: "Confirm"
           - Name: InputArguments
             Type: BaseObjectType
             Children:
@@ -3778,7 +3811,7 @@ Children:
       - Name: DynamicLink
         Type: DynamicLink
         DataType: NodePath
-        Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+        Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
     - Name: Area
       Type: BaseDataVariableType
       DataType: String
@@ -4305,7 +4338,7 @@ Children:
       - Name: DynamicLink
         Type: DynamicLink
         DataType: NodePath
-        Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+        Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
     - Name: Area
       Type: BaseDataVariableType
       DataType: String
@@ -4832,7 +4865,7 @@ Children:
       - Name: DynamicLink
         Type: DynamicLink
         DataType: NodePath
-        Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+        Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
     - Name: Area
       Type: BaseDataVariableType
       DataType: String
@@ -5359,7 +5392,7 @@ Children:
       - Name: DynamicLink
         Type: DynamicLink
         DataType: NodePath
-        Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+        Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
     - Name: Area
       Type: BaseDataVariableType
       DataType: String
@@ -8412,7 +8445,7 @@ Children:
     - Name: Panel
       Type: NodePointer
       DataType: NodeId
-      Value: "/Objects/IXOM_Client_HMI4/UI/LoginForm1/LoginFormComponents/Login"
+      Value: "/Objects/IXOM_Client_HMI4/UI/Devices/LoginForm/LoginFormComponents/Login"
       Children:
       - Name: Kind
         Type: PropertyType
@@ -8523,7 +8556,7 @@ Children:
             - Name: NewPanel
               Type: BaseDataVariableType
               DataType: NodeId
-              Value: "/Objects/IXOM_Client_HMI4/UI/LoginForm1/LoginFormComponents/Login"
+              Value: "/Objects/IXOM_Client_HMI4/UI/Devices/LoginForm/LoginFormComponents/Login"
             - Name: AliasNode
               Type: BaseDataVariableType
               DataType: NodeId

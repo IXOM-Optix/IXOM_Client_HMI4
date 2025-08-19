@@ -947,7 +947,7 @@ Children:
       - Name: DynamicLink
         Type: DynamicLink
         DataType: NodePath
-        Value: "../../../../UI/Model/Data_Management/Retention"
+        Value: "../../../../UI/Devices/Model/Data_Management/Retention"
         Children:
         - Name: Mode
           Type: BaseVariableType
@@ -965,7 +965,7 @@ Children:
       - Name: DynamicLink
         Type: DynamicLink
         DataType: NodePath
-        Value: "../../../../UI/Model/Data_Management/Purge Interval"
+        Value: "../../../../UI/Devices/Model/Data_Management/Purge Interval"
         Children:
         - Name: Mode
           Type: BaseVariableType
@@ -1302,7 +1302,7 @@ Children:
       - Name: DynamicLink
         Type: DynamicLink
         DataType: NodePath
-        Value: "../../../../UI/Model/Data_Management/Retention"
+        Value: "../../../../UI/Devices/Model/Data_Management/Retention"
         Children:
         - Name: Mode
           Type: BaseVariableType
@@ -1320,7 +1320,7 @@ Children:
       - Name: DynamicLink
         Type: DynamicLink
         DataType: NodePath
-        Value: "../../../../UI/Model/Data_Management/Purge Interval"
+        Value: "../../../../UI/Devices/Model/Data_Management/Purge Interval"
         Children:
         - Name: Mode
           Type: BaseVariableType
@@ -1658,7 +1658,7 @@ Children:
       - Name: DynamicLink
         Type: DynamicLink
         DataType: NodePath
-        Value: "../../../../UI/Model/Data_Management/Retention"
+        Value: "../../../../UI/Devices/Model/Data_Management/Retention"
         Children:
         - Name: Mode
           Type: BaseVariableType
@@ -1676,7 +1676,7 @@ Children:
       - Name: DynamicLink
         Type: DynamicLink
         DataType: NodePath
-        Value: "../../../../UI/Model/Data_Management/Purge Interval"
+        Value: "../../../../UI/Devices/Model/Data_Management/Purge Interval"
         Children:
         - Name: Mode
           Type: BaseVariableType
@@ -2011,7 +2011,7 @@ Children:
       - Name: DynamicLink
         Type: DynamicLink
         DataType: NodePath
-        Value: "../../../../UI/Model/Data_Management/Retention"
+        Value: "../../../../UI/Devices/Model/Data_Management/Retention"
         Children:
         - Name: Mode
           Type: BaseVariableType
@@ -2029,7 +2029,7 @@ Children:
       - Name: DynamicLink
         Type: DynamicLink
         DataType: NodePath
-        Value: "../../../../UI/Model/Data_Management/Purge Interval"
+        Value: "../../../../UI/Devices/Model/Data_Management/Purge Interval"
         Children:
         - Name: Mode
           Type: BaseVariableType
@@ -2364,7 +2364,7 @@ Children:
       - Name: DynamicLink
         Type: DynamicLink
         DataType: NodePath
-        Value: "../../../../UI/Model/Data_Management/Retention"
+        Value: "../../../../UI/Devices/Model/Data_Management/Retention"
         Children:
         - Name: Mode
           Type: BaseVariableType
@@ -2382,7 +2382,7 @@ Children:
       - Name: DynamicLink
         Type: DynamicLink
         DataType: NodePath
-        Value: "../../../../UI/Model/Data_Management/Purge Interval"
+        Value: "../../../../UI/Devices/Model/Data_Management/Purge Interval"
         Children:
         - Name: Mode
           Type: BaseVariableType

@@ -143,7 +143,7 @@ Children:
               - Name: DynamicLink
                 Type: DynamicLink
                 DataType: NodePath
-                Value: "../../../../../../SystemNode/Device/ProtectionModeEnabled"
+                Value: "/Objects/IXOM_Client_HMI4/System/System/Device/ProtectionModeEnabled"
         - Name: ValueChangeBehaviour
           Type: BaseDataVariableType
           DataType: ValueChangeBehaviour
@@ -195,7 +195,7 @@ Children:
                   Type: BaseDataVariableType
                   DataType: NodeId
                   Description: {"NamespaceIndex":9,"TextId":"OpenDialogDialogDescription"}
-                  Value: "/Objects/IXOM_Client_HMI4/UI/Widgets/LoadApplicationWidget/LoadApplicationWidgetComponents/LoadApplicationFileSelector"
+                  Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Widgets/LoadApplicationWidget/LoadApplicationWidgetComponents/LoadApplicationFileSelector"
                 - Name: AliasNode
                   Type: BaseDataVariableType
                   DataType: NodeId
@@ -292,7 +292,7 @@ Children:
               - Name: DynamicLink
                 Type: DynamicLink
                 DataType: NodePath
-                Value: "../../../../../../SystemNode/Device/ProtectionModeEnabled"
+                Value: "/Objects/IXOM_Client_HMI4/System/System/Device/ProtectionModeEnabled"
       - Name: BottomMargin
         Type: BaseVariableType
         DataType: Size
@@ -373,7 +373,7 @@ Children:
             - Name: DynamicLink
               Type: DynamicLink
               DataType: NodePath
-              Value: "../../../../../SystemNode/Device/ProtectionModeEnabled"
+              Value: "/Objects/IXOM_Client_HMI4/System/System/Device/ProtectionModeEnabled"
       - Name: ValueChangeBehaviour
         Type: BaseDataVariableType
         DataType: ValueChangeBehaviour
@@ -426,7 +426,7 @@ Children:
             - Name: DynamicLink
               Type: DynamicLink
               DataType: NodePath
-              Value: "../../../../../SystemNode/Device/ProtectionModeEnabled"
+              Value: "/Objects/IXOM_Client_HMI4/System/System/Device/ProtectionModeEnabled"
       - Name: HorizontalAlignment
         Type: BaseVariableType
         DataType: HorizontalAlignment
@@ -725,7 +725,7 @@ Children:
               - Name: DynamicLink
                 Type: DynamicLink
                 DataType: NodePath
-                Value: "../../../../../../SystemNode/Device/ProtectionModeEnabled"
+                Value: "/Objects/IXOM_Client_HMI4/System/System/Device/ProtectionModeEnabled"
         - Name: VerticalAlignment
           Type: BaseVariableType
           DataType: VerticalAlignment
@@ -954,7 +954,7 @@ Children:
                 - Name: DynamicLink
                   Type: DynamicLink
                   DataType: NodePath
-                  Value: "../../../../../../../SystemNode/Device/ProtectionModeEnabled"
+                  Value: "/Objects/IXOM_Client_HMI4/System/System/Device/ProtectionModeEnabled"
               - Name: TrueValue
                 Type: BaseDataVariableType
                 DataType: LocalizedText
@@ -1151,7 +1151,7 @@ Children:
                 - Name: DynamicLink
                   Type: DynamicLink
                   DataType: NodePath
-                  Value: "../../../../../../../SystemNode/Device/ProtectionModeEnabled"
+                  Value: "/Objects/IXOM_Client_HMI4/System/System/Device/ProtectionModeEnabled"
         - Name: HorizontalAlignment
           Type: BaseVariableType
           DataType: HorizontalAlignment
@@ -1320,7 +1320,7 @@ Children:
     - Name: ConfirmationDialogAlias
       Type: Alias
       DataType: NodeId
-      Value: "/Objects/IXOM_Client_HMI4/UI/Widgets/LoadApplicationWidget/LoadApplicationWidgetComponents/LoadConfirmationDialog"
+      Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Widgets/LoadApplicationWidget/LoadApplicationWidgetComponents/LoadConfirmationDialog"
       Children:
       - Name: Kind
         Type: PropertyType

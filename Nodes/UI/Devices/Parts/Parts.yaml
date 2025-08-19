@@ -217,7 +217,7 @@ Children:
                   Type: BaseDataVariableType
                   DataType: VariablePointer
                   Description: {"NamespaceIndex":7,"TextId":"SetVariableToModifyDescription"}
-                  Value: "/Objects/IXOM_Client_HMI4/UI/Model/PDF"
+                  Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PDF"
                 - Name: Value
                   Type: BaseDataVariableType
                   DataType: ResourceUri
@@ -363,7 +363,7 @@ Children:
                   Type: BaseDataVariableType
                   DataType: VariablePointer
                   Description: {"NamespaceIndex":7,"TextId":"SetVariableToModifyDescription"}
-                  Value: "/Objects/IXOM_Client_HMI4/UI/Model/URL"
+                  Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/URL"
                 - Name: Value
                   Type: BaseDataVariableType
                   DataType: String

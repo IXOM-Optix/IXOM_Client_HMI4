@@ -1200,7 +1200,7 @@ Children:
                 - Name: DynamicLink
                   Type: DynamicLink
                   DataType: NodePath
-                  Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+                  Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
   - Name: Button_Brine
     Type: Button
     Children:
@@ -3419,7 +3419,7 @@ Children:
             - Name: DynamicLink
               Type: DynamicLink
               DataType: NodePath
-              Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+              Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
     - Name: HorizontalAlignment
       Type: BaseVariableType
       DataType: HorizontalAlignment
@@ -3489,7 +3489,7 @@ Children:
             - Name: DynamicLink
               Type: DynamicLink
               DataType: NodePath
-              Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+              Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
     - Name: HorizontalAlignment
       Type: BaseVariableType
       DataType: HorizontalAlignment
@@ -9499,7 +9499,7 @@ Children:
             - Name: DynamicLink
               Type: DynamicLink
               DataType: NodePath
-              Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+              Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
     - Name: HorizontalAlignment
       Type: BaseVariableType
       DataType: HorizontalAlignment
@@ -9569,7 +9569,7 @@ Children:
             - Name: DynamicLink
               Type: DynamicLink
               DataType: NodePath
-              Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+              Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
     - Name: HorizontalAlignment
       Type: BaseVariableType
       DataType: HorizontalAlignment
@@ -15363,7 +15363,7 @@ Children:
             - Name: DynamicLink
               Type: DynamicLink
               DataType: NodePath
-              Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+              Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
     - Name: HorizontalAlignment
       Type: BaseVariableType
       DataType: HorizontalAlignment
@@ -15433,7 +15433,7 @@ Children:
             - Name: DynamicLink
               Type: DynamicLink
               DataType: NodePath
-              Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+              Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
     - Name: HorizontalAlignment
       Type: BaseVariableType
       DataType: HorizontalAlignment
@@ -21420,7 +21420,7 @@ Children:
             - Name: DynamicLink
               Type: DynamicLink
               DataType: NodePath
-              Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+              Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
     - Name: HorizontalAlignment
       Type: BaseVariableType
       DataType: HorizontalAlignment
@@ -21485,7 +21485,7 @@ Children:
             - Name: DynamicLink
               Type: DynamicLink
               DataType: NodePath
-              Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+              Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
     - Name: HorizontalAlignment
       Type: BaseVariableType
       DataType: HorizontalAlignment

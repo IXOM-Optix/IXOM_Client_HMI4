@@ -1,4 +1,4 @@
-Name: ChangeUserForm1
+Name: ChangeUserForm
 Type: FolderType
 Children:
 - Name: ChangeUserForm
@@ -413,7 +413,7 @@ Children:
   - Name: PasswordExpiredDialogType
     Type: Alias
     DataType: NodeId
-    Value: "/Objects/IXOM_Client_HMI4/UI/ChangeUserForm1/ChangeUserPasswordExpiredDialog"
+    Value: "/Objects/IXOM_Client_HMI4/UI/Devices/ChangeUserForm/ChangeUserPasswordExpiredDialog"
     Children:
     - Name: Kind
       Type: PropertyType

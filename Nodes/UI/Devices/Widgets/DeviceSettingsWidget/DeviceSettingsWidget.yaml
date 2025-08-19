@@ -40,7 +40,7 @@ Children:
         - Name: Panel
           Type: NodePointer
           DataType: NodeId
-          Value: "/Objects/IXOM_Client_HMI4/UI/Widgets/DeviceSettingsWidget/DeviceSettingsWidgetComponents/Configuration"
+          Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Widgets/DeviceSettingsWidget/DeviceSettingsWidgetComponents/Configuration"
           Children:
           - Name: Kind
             Type: PropertyType
@@ -54,7 +54,7 @@ Children:
           - Name: DynamicLink
             Type: DynamicLink
             DataType: NodePath
-            Value: "../../../../SystemNode@NodeId"
+            Value: "/Objects/IXOM_Client_HMI4/System/System@NodeId"
       - Name: Panel2
         Type: NavigationPanelItem
         Children:
@@ -65,7 +65,7 @@ Children:
         - Name: Panel
           Type: NodePointer
           DataType: NodeId
-          Value: "/Objects/IXOM_Client_HMI4/UI/Widgets/DeviceSettingsWidget/DeviceSettingsWidgetComponents/Product_Information"
+          Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Widgets/DeviceSettingsWidget/DeviceSettingsWidgetComponents/Product_Information"
           Children:
           - Name: Kind
             Type: PropertyType
@@ -79,7 +79,7 @@ Children:
           - Name: DynamicLink
             Type: DynamicLink
             DataType: NodePath
-            Value: "../../../../SystemNode@NodeId"
+            Value: "/Objects/IXOM_Client_HMI4/System/System@NodeId"
       - Name: Panel3
         Type: NavigationPanelItem
         Children:
@@ -90,7 +90,7 @@ Children:
         - Name: Panel
           Type: NodePointer
           DataType: NodeId
-          Value: "/Objects/IXOM_Client_HMI4/UI/Widgets/DeviceSettingsWidget/DeviceSettingsWidgetComponents/Diagnostics"
+          Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Widgets/DeviceSettingsWidget/DeviceSettingsWidgetComponents/Diagnostics"
           Children:
           - Name: Kind
             Type: PropertyType
@@ -104,7 +104,7 @@ Children:
           - Name: DynamicLink
             Type: DynamicLink
             DataType: NodePath
-            Value: "../../../../SystemNode@NodeId"
+            Value: "/Objects/IXOM_Client_HMI4/System/System@NodeId"
     - Name: CurrentPanel
       Type: NodePointer
       DataType: NodeId

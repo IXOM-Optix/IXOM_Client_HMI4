@@ -32,7 +32,7 @@ Children:
       - Name: DynamicLink1
         Type: DynamicLink
         DataType: NodePath
-        Value: "/Objects/IXOM_Client_HMI4/UI/Model/Rewind/UTC_DateTime"
+        Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/Rewind/UTC_DateTime"
         Children:
         - Name: Mode
           Type: BaseVariableType
@@ -45,7 +45,7 @@ Children:
     - Name: DynamicLink
       Type: DynamicLink
       DataType: NodePath
-      Value: "/Objects/IXOM_Client_HMI4/UI/Model/Rewind/Enable"
+      Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/Rewind/Enable"
       Children:
       - Name: Mode
         Type: BaseVariableType
@@ -116,7 +116,7 @@ Children:
     - Name: DynamicLink
       Type: DynamicLink
       DataType: NodePath
-      Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+      Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
       Children:
       - Name: Mode
         Type: BaseVariableType

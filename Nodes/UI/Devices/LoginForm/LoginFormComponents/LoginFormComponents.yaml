@@ -492,7 +492,7 @@ Children:
   - Name: PasswordExpiredDialogType
     Type: Alias
     DataType: NodeId
-    Value: "/Objects/IXOM_Client_HMI4/UI/LoginForm1/LoginFormComponents/LoginPasswordExpiredDialog"
+    Value: "/Objects/IXOM_Client_HMI4/UI/Devices/LoginForm/LoginFormComponents/LoginPasswordExpiredDialog"
     Children:
     - Name: Kind
       Type: PropertyType

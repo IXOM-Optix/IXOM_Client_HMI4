@@ -42,7 +42,7 @@ Children:
   - Name: ConfirmationDialogAlias
     Type: Alias
     DataType: NodeId
-    Value: "/Objects/IXOM_Client_HMI4/UI/Widgets/LoadApplicationWidget/LoadApplicationWidgetComponents/LoadConfirmationDialog"
+    Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Widgets/LoadApplicationWidget/LoadApplicationWidgetComponents/LoadConfirmationDialog"
     Children:
     - Name: Kind
       Type: PropertyType
@@ -229,7 +229,7 @@ Children:
           - Name: ItemKind
             Type: PropertyType
             DataType: NodeId
-            Value: "/Objects/IXOM_Client_HMI4/UI/Widgets/FileEntry"
+            Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Widgets/FileEntry"
           - Name: Kind
             Type: PropertyType
             DataType: NodeId
@@ -431,7 +431,7 @@ Children:
           - Name: Kind
             Type: PropertyType
             DataType: NodeId
-            Value: "/Objects/IXOM_Client_HMI4/UI/Widgets/FileEntry"
+            Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Widgets/FileEntry"
         - Name: Width
           Type: BaseVariableType
           DataType: Size
@@ -449,7 +449,7 @@ Children:
           - Name: Kind
             Type: PropertyType
             DataType: NodeId
-            Value: "/Objects/IXOM_Client_HMI4/UI/Widgets/FileEntry"
+            Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Widgets/FileEntry"
         - Name: LeftMargin
           Type: BaseVariableType
           DataType: Size
@@ -1041,7 +1041,7 @@ Children:
     - Name: Kind
       Type: PropertyType
       DataType: NodeId
-      Value: "/Objects/IXOM_Client_HMI4/UI/Widgets/LoadApplicationWidget/LoadApplicationWidgetComponents/LoadConfirmationDialogContext"
+      Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Widgets/LoadApplicationWidget/LoadApplicationWidgetComponents/LoadConfirmationDialogContext"
   - Name: Background
     Type: Rectangle
     Children:

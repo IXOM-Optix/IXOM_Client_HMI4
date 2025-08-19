@@ -392,7 +392,7 @@ Children:
             - Name: VariableToModify
               Type: BaseDataVariableType
               DataType: VariablePointer
-              Value: "/Objects/IXOM_Client_HMI4/UI/Model/Rewind/Enable"
+              Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/Rewind/Enable"
             - Name: Value
               Type: BaseDataVariableType
               DataType: Boolean
@@ -535,7 +535,7 @@ Children:
               Type: BaseDataVariableType
               DataType: NodeId
               Description: {"NamespaceIndex":9,"TextId":"ChangePanelNewPanelDescription"}
-              Value: "/Objects/IXOM_Client_HMI4/UI/LoginForm1/LoginFormComponents/Login"
+              Value: "/Objects/IXOM_Client_HMI4/UI/Devices/LoginForm/LoginFormComponents/Login"
             - Name: AliasNode
               Type: BaseDataVariableType
               DataType: NodeId
@@ -1253,7 +1253,7 @@ Children:
       - Name: DynamicLink
         Type: DynamicLink
         DataType: NodePath
-        Value: "/Objects/IXOM_Client_HMI4/UI/Model/Rewind/UTC_DateTime"
+        Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/Rewind/UTC_DateTime"
         Children:
         - Name: Mode
           Type: BaseVariableType
@@ -1620,7 +1620,7 @@ Children:
               Type: BaseDataVariableType
               DataType: VariablePointer
               Description: {"NamespaceIndex":7,"TextId":"SetVariableToModifyDescription"}
-              Value: "/Objects/IXOM_Client_HMI4/UI/Model/Rewind/Enable"
+              Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/Rewind/Enable"
             - Name: Value
               Type: BaseDataVariableType
               DataType: Boolean
@@ -3247,7 +3247,7 @@ Children:
       - Name: DynamicLink
         Type: DynamicLink
         DataType: NodePath
-        Value: "/Objects/IXOM_Client_HMI4/UI/Model/Rewind/Local_DateTime"
+        Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/Rewind/Local_DateTime"
     - Name: LeftMargin
       Type: BaseVariableType
       DataType: Size
@@ -3273,7 +3273,7 @@ Children:
       - Name: DynamicLink
         Type: DynamicLink
         DataType: NodePath
-        Value: "/Objects/IXOM_Client_HMI4/UI/Model/Rewind/UTC_DateTime"
+        Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/Rewind/UTC_DateTime"
     - Name: LeftMargin
       Type: BaseVariableType
       DataType: Size

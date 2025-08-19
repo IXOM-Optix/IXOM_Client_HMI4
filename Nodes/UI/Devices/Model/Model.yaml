@@ -6,10 +6,6 @@ Children:
   Type: BaseDataVariableType
   DataType: String
   Value: "AB_MagnaPak"
-- Name: PLC_Name_Test
-  Type: BaseDataVariableType
-  DataType: String
-  Value: "AB_MIEX_Mini"
 - Name: Rewind
   Type: BaseObjectType
   Children:
@@ -67,24 +63,6 @@ Children:
     Type: BaseDataVariableType
     DataType: Duration
     Value: "30:00:00:00.0000000"
-- Name: Test_1
-  Type: BaseDataVariableType
-  DataType: Int32
-- Name: Test_2
-  Type: BaseDataVariableType
-  DataType: Int32
-- Name: Header_Name
-  Type: BaseDataVariableType
-  DataType: String
-  Value: "0"
-- Name: Footer_Name
-  Type: BaseDataVariableType
-  DataType: String
-  Value: "0"
-- Name: Main_Name
-  Type: BaseDataVariableType
-  DataType: String
-  Value: "0"
 - Name: URL
   Id: g=32006eb207f1d5dfb337df383d62f426
   Type: BaseDataVariableType

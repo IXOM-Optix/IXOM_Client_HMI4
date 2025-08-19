@@ -35,7 +35,7 @@ Children:
       - Name: DynamicLink
         Type: DynamicLink
         DataType: NodePath
-        Value: "/Objects/IXOM_Client_HMI4/UI/Model/URL"
+        Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/URL"
     - Class: Reference
       Target: ns=9;i=354
       Direction: Forward
@@ -279,7 +279,7 @@ Children:
       - Name: DynamicLink
         Type: DynamicLink
         DataType: NodePath
-        Value: "/Objects/IXOM_Client_HMI4/UI/Model/PDF@Value"
+        Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PDF@Value"
     - Name: CurrentPage
       Type: BaseDataVariableType
       DataType: Int32
@@ -455,7 +455,7 @@ Children:
       - Name: DynamicLink
         Type: DynamicLink
         DataType: NodePath
-        Value: "/Objects/IXOM_Client_HMI4/UI/Model/PDF"
+        Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PDF"
     - Name: LeftMargin
       Type: BaseVariableType
       DataType: Size

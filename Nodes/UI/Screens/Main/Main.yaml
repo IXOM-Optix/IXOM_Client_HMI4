@@ -111,7 +111,7 @@ Children:
               Type: BaseDataVariableType
               DataType: VariablePointer
               Description: {"NamespaceIndex":7,"TextId":"SetVariableToModifyDescription"}
-              Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+              Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
             - Name: Value
               Type: BaseDataVariableType
               DataType: String
@@ -437,7 +437,7 @@ Children:
               Type: BaseDataVariableType
               DataType: VariablePointer
               Description: {"NamespaceIndex":7,"TextId":"SetVariableToModifyDescription"}
-              Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+              Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
             - Name: Value
               Type: BaseDataVariableType
               DataType: String
@@ -633,7 +633,7 @@ Children:
               Type: BaseDataVariableType
               DataType: VariablePointer
               Description: {"NamespaceIndex":7,"TextId":"SetVariableToModifyDescription"}
-              Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+              Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
             - Name: Value
               Type: BaseDataVariableType
               DataType: String
@@ -965,7 +965,7 @@ Children:
               Type: BaseDataVariableType
               DataType: VariablePointer
               Description: {"NamespaceIndex":7,"TextId":"SetVariableToModifyDescription"}
-              Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+              Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
             - Name: Value
               Type: BaseDataVariableType
               DataType: String
@@ -1161,7 +1161,7 @@ Children:
               Type: BaseDataVariableType
               DataType: VariablePointer
               Description: {"NamespaceIndex":7,"TextId":"SetVariableToModifyDescription"}
-              Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+              Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
             - Name: Value
               Type: BaseDataVariableType
               DataType: String
@@ -2065,7 +2065,7 @@ Children:
               Type: BaseDataVariableType
               DataType: VariablePointer
               Description: {"NamespaceIndex":7,"TextId":"SetVariableToModifyDescription"}
-              Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+              Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
             - Name: Value
               Type: BaseDataVariableType
               DataType: String

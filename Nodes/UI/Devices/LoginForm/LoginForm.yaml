@@ -1,4 +1,4 @@
-Name: LoginForm1
+Name: LoginForm
 Type: FolderType
 Children:
 - Name: LoginForm
@@ -31,13 +31,13 @@ Children:
         DataType: NodeId
         ReferenceType: HasParameter
         ModellingRule: Optional
-        Value: "/Objects/IXOM_Client_HMI4/UI/LoginForm1/LoginFormComponents/Logout"
+        Value: "/Objects/IXOM_Client_HMI4/UI/Devices/LoginForm/LoginFormComponents/Logout"
       - Name: FalseValue
         Type: BaseDataVariableType
         DataType: NodeId
         ReferenceType: HasParameter
         ModellingRule: Optional
-        Value: "/Objects/IXOM_Client_HMI4/UI/LoginForm1/LoginFormComponents/Login"
+        Value: "/Objects/IXOM_Client_HMI4/UI/Devices/LoginForm/LoginFormComponents/Login"
   - Name: CurrentPanel
     Type: NodePointer
     DataType: NodeId

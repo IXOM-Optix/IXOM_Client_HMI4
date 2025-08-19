@@ -159,7 +159,7 @@ Children:
         - Name: DynamicLink
           Type: DynamicLink
           DataType: NodePath
-          Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+          Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
       - Name: Area
         Type: BaseDataVariableType
         DataType: String
@@ -2849,7 +2849,7 @@ Children:
         - Name: DynamicLink
           Type: DynamicLink
           DataType: NodePath
-          Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+          Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
       - Name: Area
         Type: BaseDataVariableType
         DataType: String
@@ -3424,7 +3424,7 @@ Children:
         - Name: DynamicLink
           Type: DynamicLink
           DataType: NodePath
-          Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+          Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
       - Name: Area
         Type: BaseDataVariableType
         DataType: String
@@ -3999,7 +3999,7 @@ Children:
         - Name: DynamicLink
           Type: DynamicLink
           DataType: NodePath
-          Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+          Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
       - Name: Area
         Type: BaseDataVariableType
         DataType: String
@@ -4585,7 +4585,7 @@ Children:
         - Name: DynamicLink
           Type: DynamicLink
           DataType: NodePath
-          Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+          Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
       - Name: Area
         Type: BaseDataVariableType
         DataType: String
@@ -5114,7 +5114,7 @@ Children:
                       - Name: DynamicLink
                         Type: DynamicLink
                         DataType: NodePath
-                        Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+                        Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
               - Name: Value
                 Type: BaseDataVariableType
                 DataType: Boolean
@@ -5283,7 +5283,7 @@ Children:
                       - Name: DynamicLink
                         Type: DynamicLink
                         DataType: NodePath
-                        Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+                        Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
               - Name: Value
                 Type: BaseDataVariableType
                 DataType: Int16
@@ -5445,7 +5445,7 @@ Children:
                 - Name: DynamicLink
                   Type: DynamicLink
                   DataType: NodePath
-                  Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+                  Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
     - Name: Blink
       Type: BaseDataVariableType
       DataType: Boolean
@@ -5474,7 +5474,7 @@ Children:
         - Name: DynamicLink
           Type: DynamicLink
           DataType: NodePath
-          Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+          Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
       - Name: Area
         Type: BaseDataVariableType
         DataType: String
@@ -8164,7 +8164,7 @@ Children:
         - Name: DynamicLink
           Type: DynamicLink
           DataType: NodePath
-          Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+          Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
       - Name: Area
         Type: BaseDataVariableType
         DataType: String
@@ -8739,7 +8739,7 @@ Children:
         - Name: DynamicLink
           Type: DynamicLink
           DataType: NodePath
-          Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+          Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
       - Name: Area
         Type: BaseDataVariableType
         DataType: String
@@ -9314,7 +9314,7 @@ Children:
         - Name: DynamicLink
           Type: DynamicLink
           DataType: NodePath
-          Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+          Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
       - Name: Area
         Type: BaseDataVariableType
         DataType: String
@@ -9900,7 +9900,7 @@ Children:
         - Name: DynamicLink
           Type: DynamicLink
           DataType: NodePath
-          Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+          Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
       - Name: Area
         Type: BaseDataVariableType
         DataType: String
@@ -10429,7 +10429,7 @@ Children:
                       - Name: DynamicLink
                         Type: DynamicLink
                         DataType: NodePath
-                        Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+                        Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
               - Name: Value
                 Type: BaseDataVariableType
                 DataType: Boolean
@@ -10598,7 +10598,7 @@ Children:
                       - Name: DynamicLink
                         Type: DynamicLink
                         DataType: NodePath
-                        Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+                        Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
               - Name: Value
                 Type: BaseDataVariableType
                 DataType: Int16
@@ -11270,7 +11270,7 @@ Children:
       - Name: DynamicLink
         Type: DynamicLink
         DataType: NodePath
-        Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+        Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
     - Name: Area
       Type: BaseDataVariableType
       DataType: String
@@ -11826,7 +11826,7 @@ Children:
       - Name: DynamicLink
         Type: DynamicLink
         DataType: NodePath
-        Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+        Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
     - Name: Area
       Type: BaseDataVariableType
       DataType: String
@@ -12394,7 +12394,7 @@ Children:
       - Name: DynamicLink
         Type: DynamicLink
         DataType: NodePath
-        Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+        Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
     - Name: Area
       Type: BaseDataVariableType
       DataType: String
@@ -12782,7 +12782,7 @@ Children:
       - Name: DynamicLink
         Type: DynamicLink
         DataType: NodePath
-        Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+        Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
     - Name: Area
       Type: BaseDataVariableType
       DataType: String
@@ -13170,7 +13170,7 @@ Children:
       - Name: DynamicLink
         Type: DynamicLink
         DataType: NodePath
-        Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+        Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
     - Name: Area
       Type: BaseDataVariableType
       DataType: String
@@ -13558,7 +13558,7 @@ Children:
       - Name: DynamicLink
         Type: DynamicLink
         DataType: NodePath
-        Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+        Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
     - Name: Area
       Type: BaseDataVariableType
       DataType: String
@@ -13946,7 +13946,7 @@ Children:
       - Name: DynamicLink
         Type: DynamicLink
         DataType: NodePath
-        Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+        Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
     - Name: Area
       Type: BaseDataVariableType
       DataType: String
@@ -14335,7 +14335,7 @@ Children:
       - Name: DynamicLink
         Type: DynamicLink
         DataType: NodePath
-        Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+        Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
     - Name: Area
       Type: BaseDataVariableType
       DataType: String
@@ -14724,7 +14724,7 @@ Children:
       - Name: DynamicLink
         Type: DynamicLink
         DataType: NodePath
-        Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+        Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
     - Name: Area
       Type: BaseDataVariableType
       DataType: String
@@ -15186,7 +15186,7 @@ Children:
       - Name: DynamicLink
         Type: DynamicLink
         DataType: NodePath
-        Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+        Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
     - Name: Area
       Type: BaseDataVariableType
       DataType: String
@@ -15648,7 +15648,7 @@ Children:
       - Name: DynamicLink
         Type: DynamicLink
         DataType: NodePath
-        Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+        Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
     - Name: Area
       Type: BaseDataVariableType
       DataType: String
@@ -16142,7 +16142,7 @@ Children:
               Type: BaseDataVariableType
               DataType: VariablePointer
               Description: {"NamespaceIndex":7,"TextId":"SetVariableToModifyDescription"}
-              Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+              Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
             - Name: Value
               Type: BaseDataVariableType
               DataType: String
@@ -16262,7 +16262,7 @@ Children:
               Type: BaseDataVariableType
               DataType: VariablePointer
               Description: {"NamespaceIndex":7,"TextId":"SetVariableToModifyDescription"}
-              Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+              Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
             - Name: Value
               Type: BaseDataVariableType
               DataType: String
@@ -17982,7 +17982,7 @@ Children:
                 - Name: DynamicLink
                   Type: DynamicLink
                   DataType: NodePath
-                  Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+                  Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
               - Name: LocalTimestamp
                 Type: BaseDataVariableType
                 DataType: DateTime
@@ -18052,7 +18052,7 @@ Children:
                 - Name: DynamicLink
                   Type: DynamicLink
                   DataType: NodePath
-                  Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+                  Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
               - Name: LocalTimestamp
                 Type: BaseDataVariableType
                 DataType: DateTime
@@ -19107,7 +19107,7 @@ Children:
               Type: BaseDataVariableType
               DataType: VariablePointer
               Description: {"NamespaceIndex":7,"TextId":"SetVariableToModifyDescription"}
-              Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+              Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
             - Name: Value
               Type: BaseDataVariableType
               DataType: String
@@ -19227,7 +19227,7 @@ Children:
               Type: BaseDataVariableType
               DataType: VariablePointer
               Description: {"NamespaceIndex":7,"TextId":"SetVariableToModifyDescription"}
-              Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+              Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
             - Name: Value
               Type: BaseDataVariableType
               DataType: String
@@ -21074,7 +21074,7 @@ Children:
                 Type: BaseDataVariableType
                 DataType: VariablePointer
                 Description: {"NamespaceIndex":7,"TextId":"SetVariableToModifyDescription"}
-                Value: "/Objects/IXOM_Client_HMI4/UI/Model/URL"
+                Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/URL"
               - Name: Value
                 Type: BaseDataVariableType
                 DataType: String
@@ -21205,7 +21205,7 @@ Children:
               Type: BaseDataVariableType
               DataType: VariablePointer
               Description: {"NamespaceIndex":7,"TextId":"SetVariableToModifyDescription"}
-              Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+              Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
             - Name: Value
               Type: BaseDataVariableType
               DataType: String
@@ -21325,7 +21325,7 @@ Children:
               Type: BaseDataVariableType
               DataType: VariablePointer
               Description: {"NamespaceIndex":7,"TextId":"SetVariableToModifyDescription"}
-              Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+              Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
             - Name: Value
               Type: BaseDataVariableType
               DataType: String
@@ -23251,7 +23251,7 @@ Children:
               Type: BaseDataVariableType
               DataType: VariablePointer
               Description: {"NamespaceIndex":7,"TextId":"SetVariableToModifyDescription"}
-              Value: "/Objects/IXOM_Client_HMI4/UI/Model/URL"
+              Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/URL"
             - Name: Value
               Type: BaseDataVariableType
               DataType: String
@@ -23382,7 +23382,7 @@ Children:
               Type: BaseDataVariableType
               DataType: VariablePointer
               Description: {"NamespaceIndex":7,"TextId":"SetVariableToModifyDescription"}
-              Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+              Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
             - Name: Value
               Type: BaseDataVariableType
               DataType: String
@@ -23502,7 +23502,7 @@ Children:
               Type: BaseDataVariableType
               DataType: VariablePointer
               Description: {"NamespaceIndex":7,"TextId":"SetVariableToModifyDescription"}
-              Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+              Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
             - Name: Value
               Type: BaseDataVariableType
               DataType: String
@@ -26596,7 +26596,7 @@ Children:
       - Name: DynamicLink
         Type: DynamicLink
         DataType: NodePath
-        Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+        Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
     - Name: Area
       Type: BaseDataVariableType
       DataType: String
@@ -27114,7 +27114,7 @@ Children:
       - Name: DynamicLink
         Type: DynamicLink
         DataType: NodePath
-        Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+        Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
     - Name: Area
       Type: BaseDataVariableType
       DataType: String
@@ -27632,7 +27632,7 @@ Children:
       - Name: DynamicLink
         Type: DynamicLink
         DataType: NodePath
-        Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+        Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
     - Name: Area
       Type: BaseDataVariableType
       DataType: String
@@ -27873,7 +27873,7 @@ Children:
       - Name: DynamicLink1
         Type: DynamicLink
         DataType: NodePath
-        Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+        Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
     - Name: Area
       Type: BaseDataVariableType
       DataType: String
@@ -28999,7 +28999,7 @@ Children:
       - Name: DynamicLink1
         Type: DynamicLink
         DataType: NodePath
-        Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+        Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
     - Name: Area
       Type: BaseDataVariableType
       DataType: String
@@ -30093,7 +30093,7 @@ Children:
       - Name: DynamicLink1
         Type: DynamicLink
         DataType: NodePath
-        Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+        Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
     - Name: Area
       Type: BaseDataVariableType
       DataType: String
@@ -31219,7 +31219,7 @@ Children:
       - Name: DynamicLink1
         Type: DynamicLink
         DataType: NodePath
-        Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+        Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
     - Name: Area
       Type: BaseDataVariableType
       DataType: String
@@ -32345,7 +32345,7 @@ Children:
       - Name: DynamicLink1
         Type: DynamicLink
         DataType: NodePath
-        Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+        Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
     - Name: Area
       Type: BaseDataVariableType
       DataType: String
@@ -33471,7 +33471,7 @@ Children:
       - Name: DynamicLink1
         Type: DynamicLink
         DataType: NodePath
-        Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+        Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
     - Name: Area
       Type: BaseDataVariableType
       DataType: String
@@ -34597,7 +34597,7 @@ Children:
       - Name: DynamicLink
         Type: DynamicLink
         DataType: NodePath
-        Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+        Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
     - Name: Area
       Type: BaseDataVariableType
       DataType: String
@@ -36423,7 +36423,7 @@ Children:
       - Name: DynamicLink
         Type: DynamicLink
         DataType: NodePath
-        Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+        Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
     - Name: Area
       Type: BaseDataVariableType
       DataType: String
@@ -39053,7 +39053,7 @@ Children:
         - Name: DynamicLink
           Type: DynamicLink
           DataType: NodePath
-          Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+          Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
       - Name: Area
         Type: BaseDataVariableType
         DataType: String
@@ -39574,7 +39574,7 @@ Children:
       - Name: DynamicLink
         Type: DynamicLink
         DataType: NodePath
-        Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+        Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
     - Name: Area
       Type: BaseDataVariableType
       DataType: String
@@ -40099,7 +40099,7 @@ Children:
                     - Name: DynamicLink
                       Type: DynamicLink
                       DataType: NodePath
-                      Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+                      Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
             - Name: Value
               Type: BaseDataVariableType
               DataType: Boolean
@@ -40268,7 +40268,7 @@ Children:
                     - Name: DynamicLink
                       Type: DynamicLink
                       DataType: NodePath
-                      Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+                      Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
             - Name: Value
               Type: BaseDataVariableType
               DataType: Int16
@@ -40374,7 +40374,7 @@ Children:
       - Name: DynamicLink
         Type: DynamicLink
         DataType: NodePath
-        Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+        Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
     - Name: Area
       Type: BaseDataVariableType
       DataType: String
@@ -40700,7 +40700,7 @@ Children:
       - Name: DynamicLink
         Type: DynamicLink
         DataType: NodePath
-        Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+        Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
     - Name: Area
       Type: BaseDataVariableType
       DataType: String
@@ -41053,7 +41053,7 @@ Children:
               Type: BaseDataVariableType
               DataType: VariablePointer
               Description: {"NamespaceIndex":7,"TextId":"SetVariableToModifyDescription"}
-              Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+              Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
             - Name: Value
               Type: BaseDataVariableType
               DataType: String
@@ -41173,7 +41173,7 @@ Children:
               Type: BaseDataVariableType
               DataType: VariablePointer
               Description: {"NamespaceIndex":7,"TextId":"SetVariableToModifyDescription"}
-              Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+              Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
             - Name: Value
               Type: BaseDataVariableType
               DataType: String
@@ -43854,7 +43854,7 @@ Children:
       - Name: DynamicLink
         Type: DynamicLink
         DataType: NodePath
-        Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+        Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
     - Name: Area
       Type: BaseDataVariableType
       DataType: String
@@ -44372,7 +44372,7 @@ Children:
       - Name: DynamicLink
         Type: DynamicLink
         DataType: NodePath
-        Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+        Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
     - Name: Area
       Type: BaseDataVariableType
       DataType: String
@@ -44890,7 +44890,7 @@ Children:
       - Name: DynamicLink
         Type: DynamicLink
         DataType: NodePath
-        Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+        Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
     - Name: Area
       Type: BaseDataVariableType
       DataType: String
@@ -45131,7 +45131,7 @@ Children:
       - Name: DynamicLink1
         Type: DynamicLink
         DataType: NodePath
-        Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+        Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
     - Name: Area
       Type: BaseDataVariableType
       DataType: String
@@ -46257,7 +46257,7 @@ Children:
       - Name: DynamicLink1
         Type: DynamicLink
         DataType: NodePath
-        Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+        Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
     - Name: Area
       Type: BaseDataVariableType
       DataType: String
@@ -47351,7 +47351,7 @@ Children:
       - Name: DynamicLink1
         Type: DynamicLink
         DataType: NodePath
-        Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+        Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
     - Name: Area
       Type: BaseDataVariableType
       DataType: String
@@ -48477,7 +48477,7 @@ Children:
       - Name: DynamicLink1
         Type: DynamicLink
         DataType: NodePath
-        Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+        Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
     - Name: Area
       Type: BaseDataVariableType
       DataType: String
@@ -49603,7 +49603,7 @@ Children:
       - Name: DynamicLink1
         Type: DynamicLink
         DataType: NodePath
-        Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+        Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
     - Name: Area
       Type: BaseDataVariableType
       DataType: String
@@ -50729,7 +50729,7 @@ Children:
       - Name: DynamicLink1
         Type: DynamicLink
         DataType: NodePath
-        Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+        Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
     - Name: Area
       Type: BaseDataVariableType
       DataType: String
@@ -51855,7 +51855,7 @@ Children:
       - Name: DynamicLink
         Type: DynamicLink
         DataType: NodePath
-        Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+        Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
     - Name: Area
       Type: BaseDataVariableType
       DataType: String
@@ -53681,7 +53681,7 @@ Children:
       - Name: DynamicLink
         Type: DynamicLink
         DataType: NodePath
-        Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+        Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
     - Name: Area
       Type: BaseDataVariableType
       DataType: String
@@ -56376,7 +56376,7 @@ Children:
       - Name: DynamicLink
         Type: DynamicLink
         DataType: NodePath
-        Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+        Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
     - Name: Area
       Type: BaseDataVariableType
       DataType: String
@@ -56901,7 +56901,7 @@ Children:
                     - Name: DynamicLink
                       Type: DynamicLink
                       DataType: NodePath
-                      Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+                      Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
             - Name: Value
               Type: BaseDataVariableType
               DataType: Boolean
@@ -57070,7 +57070,7 @@ Children:
                     - Name: DynamicLink
                       Type: DynamicLink
                       DataType: NodePath
-                      Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+                      Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
             - Name: Value
               Type: BaseDataVariableType
               DataType: Int16
@@ -57176,7 +57176,7 @@ Children:
       - Name: DynamicLink
         Type: DynamicLink
         DataType: NodePath
-        Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+        Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
     - Name: Area
       Type: BaseDataVariableType
       DataType: String
@@ -57502,7 +57502,7 @@ Children:
       - Name: DynamicLink
         Type: DynamicLink
         DataType: NodePath
-        Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+        Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
     - Name: Area
       Type: BaseDataVariableType
       DataType: String
@@ -57855,7 +57855,7 @@ Children:
               Type: BaseDataVariableType
               DataType: VariablePointer
               Description: {"NamespaceIndex":7,"TextId":"SetVariableToModifyDescription"}
-              Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+              Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
             - Name: Value
               Type: BaseDataVariableType
               DataType: String
@@ -57975,7 +57975,7 @@ Children:
               Type: BaseDataVariableType
               DataType: VariablePointer
               Description: {"NamespaceIndex":7,"TextId":"SetVariableToModifyDescription"}
-              Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+              Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
             - Name: Value
               Type: BaseDataVariableType
               DataType: String
@@ -59275,7 +59275,7 @@ Children:
                     - Name: DynamicLink
                       Type: DynamicLink
                       DataType: NodePath
-                      Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+                      Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
             - Name: Value
               Type: BaseDataVariableType
               DataType: Int16
@@ -59351,7 +59351,7 @@ Children:
                 - Name: DynamicLink
                   Type: DynamicLink
                   DataType: NodePath
-                  Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+                  Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
     - Name: FontSize
       Type: BaseDataVariableType
       DataType: Size
@@ -59442,7 +59442,7 @@ Children:
                     - Name: DynamicLink
                       Type: DynamicLink
                       DataType: NodePath
-                      Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+                      Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
             - Name: Value
               Type: BaseDataVariableType
               DataType: Int16
@@ -59518,7 +59518,7 @@ Children:
                 - Name: DynamicLink
                   Type: DynamicLink
                   DataType: NodePath
-                  Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+                  Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
         - Name: ns=7;Source1
           Type: BaseDataVariableType
           DataType: BaseDataType
@@ -59616,7 +59616,7 @@ Children:
             - Name: DynamicLink
               Type: DynamicLink
               DataType: NodePath
-              Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+              Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
     - Name: MinLevel
       Type: BaseDataVariableType
       DataType: Double
@@ -60201,7 +60201,7 @@ Children:
                 - Name: DynamicLink
                   Type: DynamicLink
                   DataType: NodePath
-                  Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+                  Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
     - Name: FontSize
       Type: BaseDataVariableType
       DataType: Size
@@ -60526,7 +60526,7 @@ Children:
                 - Name: DynamicLink
                   Type: DynamicLink
                   DataType: NodePath
-                  Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+                  Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
     - Name: FontSize
       Type: BaseDataVariableType
       DataType: Size
@@ -60749,7 +60749,7 @@ Children:
       - Name: DynamicLink
         Type: DynamicLink
         DataType: NodePath
-        Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+        Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
     - Name: Area
       Type: BaseDataVariableType
       DataType: String
@@ -61464,7 +61464,7 @@ Children:
       - Name: DynamicLink1
         Type: DynamicLink
         DataType: NodePath
-        Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+        Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
     - Name: Area
       Type: BaseDataVariableType
       DataType: String
@@ -62595,7 +62595,7 @@ Children:
       - Name: DynamicLink1
         Type: DynamicLink
         DataType: NodePath
-        Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+        Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
     - Name: Area
       Type: BaseDataVariableType
       DataType: String
@@ -63735,7 +63735,7 @@ Children:
       - Name: DynamicLink1
         Type: DynamicLink
         DataType: NodePath
-        Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+        Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
     - Name: Area
       Type: BaseDataVariableType
       DataType: String
@@ -64875,7 +64875,7 @@ Children:
       - Name: DynamicLink
         Type: DynamicLink
         DataType: NodePath
-        Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+        Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
     - Name: Area
       Type: BaseDataVariableType
       DataType: String
@@ -65685,7 +65685,7 @@ Children:
       - Name: DynamicLink1
         Type: DynamicLink
         DataType: NodePath
-        Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+        Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
     - Name: Area
       Type: BaseDataVariableType
       DataType: String
@@ -66779,7 +66779,7 @@ Children:
       - Name: DynamicLink1
         Type: DynamicLink
         DataType: NodePath
-        Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+        Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
     - Name: Area
       Type: BaseDataVariableType
       DataType: String
@@ -67885,7 +67885,7 @@ Children:
       - Name: DynamicLink
         Type: DynamicLink
         DataType: NodePath
-        Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+        Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
     - Name: Area
       Type: BaseDataVariableType
       DataType: String
@@ -68238,7 +68238,7 @@ Children:
               Type: BaseDataVariableType
               DataType: VariablePointer
               Description: {"NamespaceIndex":7,"TextId":"SetVariableToModifyDescription"}
-              Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+              Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
             - Name: Value
               Type: BaseDataVariableType
               DataType: String
@@ -68358,7 +68358,7 @@ Children:
               Type: BaseDataVariableType
               DataType: VariablePointer
               Description: {"NamespaceIndex":7,"TextId":"SetVariableToModifyDescription"}
-              Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+              Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
             - Name: Value
               Type: BaseDataVariableType
               DataType: String
@@ -68647,7 +68647,7 @@ Children:
         - Name: DynamicLink
           Type: DynamicLink
           DataType: NodePath
-          Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+          Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
       - Name: Area
         Type: BaseDataVariableType
         DataType: String
@@ -69034,7 +69034,7 @@ Children:
         - Name: DynamicLink
           Type: DynamicLink
           DataType: NodePath
-          Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+          Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
       - Name: Area
         Type: BaseDataVariableType
         DataType: String
@@ -69425,7 +69425,7 @@ Children:
         - Name: DynamicLink
           Type: DynamicLink
           DataType: NodePath
-          Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+          Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
       - Name: Area
         Type: BaseDataVariableType
         DataType: String
@@ -69816,7 +69816,7 @@ Children:
         - Name: DynamicLink
           Type: DynamicLink
           DataType: NodePath
-          Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+          Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
       - Name: Area
         Type: BaseDataVariableType
         DataType: String
@@ -70207,7 +70207,7 @@ Children:
         - Name: DynamicLink
           Type: DynamicLink
           DataType: NodePath
-          Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+          Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
       - Name: Area
         Type: BaseDataVariableType
         DataType: String
@@ -70598,7 +70598,7 @@ Children:
         - Name: DynamicLink
           Type: DynamicLink
           DataType: NodePath
-          Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+          Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
       - Name: Area
         Type: BaseDataVariableType
         DataType: String
@@ -71111,7 +71111,7 @@ Children:
         - Name: DynamicLink
           Type: DynamicLink
           DataType: NodePath
-          Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+          Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
       - Name: Area
         Type: BaseDataVariableType
         DataType: String
@@ -71498,7 +71498,7 @@ Children:
         - Name: DynamicLink
           Type: DynamicLink
           DataType: NodePath
-          Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+          Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
       - Name: Area
         Type: BaseDataVariableType
         DataType: String
@@ -71885,7 +71885,7 @@ Children:
         - Name: DynamicLink
           Type: DynamicLink
           DataType: NodePath
-          Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+          Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
       - Name: Area
         Type: BaseDataVariableType
         DataType: String
@@ -72780,7 +72780,7 @@ Children:
         - Name: DynamicLink
           Type: DynamicLink
           DataType: NodePath
-          Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+          Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
       - Name: Area
         Type: BaseDataVariableType
         DataType: String
@@ -73171,7 +73171,7 @@ Children:
         - Name: DynamicLink
           Type: DynamicLink
           DataType: NodePath
-          Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+          Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
       - Name: Area
         Type: BaseDataVariableType
         DataType: String
@@ -73562,7 +73562,7 @@ Children:
         - Name: DynamicLink
           Type: DynamicLink
           DataType: NodePath
-          Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+          Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
       - Name: Area
         Type: BaseDataVariableType
         DataType: String
@@ -73953,7 +73953,7 @@ Children:
         - Name: DynamicLink
           Type: DynamicLink
           DataType: NodePath
-          Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+          Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
       - Name: Area
         Type: BaseDataVariableType
         DataType: String
@@ -74344,7 +74344,7 @@ Children:
         - Name: DynamicLink
           Type: DynamicLink
           DataType: NodePath
-          Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+          Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
       - Name: Area
         Type: BaseDataVariableType
         DataType: String
@@ -74735,7 +74735,7 @@ Children:
         - Name: DynamicLink
           Type: DynamicLink
           DataType: NodePath
-          Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+          Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
       - Name: Area
         Type: BaseDataVariableType
         DataType: String
@@ -75126,7 +75126,7 @@ Children:
         - Name: DynamicLink
           Type: DynamicLink
           DataType: NodePath
-          Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+          Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
       - Name: Area
         Type: BaseDataVariableType
         DataType: String
@@ -75517,7 +75517,7 @@ Children:
         - Name: DynamicLink
           Type: DynamicLink
           DataType: NodePath
-          Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+          Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
       - Name: Area
         Type: BaseDataVariableType
         DataType: String
@@ -75908,7 +75908,7 @@ Children:
         - Name: DynamicLink
           Type: DynamicLink
           DataType: NodePath
-          Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+          Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
       - Name: Area
         Type: BaseDataVariableType
         DataType: String
@@ -76299,7 +76299,7 @@ Children:
         - Name: DynamicLink
           Type: DynamicLink
           DataType: NodePath
-          Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+          Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
       - Name: Area
         Type: BaseDataVariableType
         DataType: String
@@ -76690,7 +76690,7 @@ Children:
         - Name: DynamicLink
           Type: DynamicLink
           DataType: NodePath
-          Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+          Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
       - Name: Area
         Type: BaseDataVariableType
         DataType: String
@@ -77081,7 +77081,7 @@ Children:
         - Name: DynamicLink
           Type: DynamicLink
           DataType: NodePath
-          Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+          Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
       - Name: Area
         Type: BaseDataVariableType
         DataType: String
@@ -77472,7 +77472,7 @@ Children:
         - Name: DynamicLink
           Type: DynamicLink
           DataType: NodePath
-          Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+          Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
       - Name: Area
         Type: BaseDataVariableType
         DataType: String
@@ -77863,7 +77863,7 @@ Children:
         - Name: DynamicLink
           Type: DynamicLink
           DataType: NodePath
-          Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+          Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
       - Name: Area
         Type: BaseDataVariableType
         DataType: String
@@ -78254,7 +78254,7 @@ Children:
         - Name: DynamicLink
           Type: DynamicLink
           DataType: NodePath
-          Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+          Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
       - Name: Area
         Type: BaseDataVariableType
         DataType: String
@@ -78645,7 +78645,7 @@ Children:
         - Name: DynamicLink
           Type: DynamicLink
           DataType: NodePath
-          Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+          Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
       - Name: Area
         Type: BaseDataVariableType
         DataType: String
@@ -79036,7 +79036,7 @@ Children:
         - Name: DynamicLink
           Type: DynamicLink
           DataType: NodePath
-          Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+          Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
       - Name: Area
         Type: BaseDataVariableType
         DataType: String
@@ -79427,7 +79427,7 @@ Children:
         - Name: DynamicLink
           Type: DynamicLink
           DataType: NodePath
-          Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+          Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
       - Name: Area
         Type: BaseDataVariableType
         DataType: String
@@ -79818,7 +79818,7 @@ Children:
         - Name: DynamicLink
           Type: DynamicLink
           DataType: NodePath
-          Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+          Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
       - Name: Area
         Type: BaseDataVariableType
         DataType: String
@@ -80209,7 +80209,7 @@ Children:
         - Name: DynamicLink
           Type: DynamicLink
           DataType: NodePath
-          Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+          Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
       - Name: Area
         Type: BaseDataVariableType
         DataType: String
@@ -80632,7 +80632,7 @@ Children:
               Type: BaseDataVariableType
               DataType: VariablePointer
               Description: {"NamespaceIndex":7,"TextId":"SetVariableToModifyDescription"}
-              Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+              Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
             - Name: Value
               Type: BaseDataVariableType
               DataType: String
@@ -80752,7 +80752,7 @@ Children:
               Type: BaseDataVariableType
               DataType: VariablePointer
               Description: {"NamespaceIndex":7,"TextId":"SetVariableToModifyDescription"}
-              Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+              Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
             - Name: Value
               Type: BaseDataVariableType
               DataType: String
@@ -80989,7 +80989,7 @@ Children:
         - Name: DynamicLink
           Type: DynamicLink
           DataType: NodePath
-          Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+          Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
       - Name: Area
         Type: BaseDataVariableType
         DataType: String
@@ -81380,7 +81380,7 @@ Children:
         - Name: DynamicLink
           Type: DynamicLink
           DataType: NodePath
-          Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+          Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
       - Name: Area
         Type: BaseDataVariableType
         DataType: String
@@ -82262,7 +82262,7 @@ Children:
         - Name: DynamicLink
           Type: DynamicLink
           DataType: NodePath
-          Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+          Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
       - Name: Area
         Type: BaseDataVariableType
         DataType: String
@@ -82653,7 +82653,7 @@ Children:
         - Name: DynamicLink
           Type: DynamicLink
           DataType: NodePath
-          Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+          Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
       - Name: Area
         Type: BaseDataVariableType
         DataType: String
@@ -83044,7 +83044,7 @@ Children:
         - Name: DynamicLink
           Type: DynamicLink
           DataType: NodePath
-          Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+          Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
       - Name: Area
         Type: BaseDataVariableType
         DataType: String
@@ -83435,7 +83435,7 @@ Children:
         - Name: DynamicLink
           Type: DynamicLink
           DataType: NodePath
-          Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+          Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
       - Name: Area
         Type: BaseDataVariableType
         DataType: String
@@ -83826,7 +83826,7 @@ Children:
         - Name: DynamicLink
           Type: DynamicLink
           DataType: NodePath
-          Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+          Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
       - Name: Area
         Type: BaseDataVariableType
         DataType: String
@@ -84217,7 +84217,7 @@ Children:
         - Name: DynamicLink
           Type: DynamicLink
           DataType: NodePath
-          Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+          Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
       - Name: Area
         Type: BaseDataVariableType
         DataType: String
@@ -84608,7 +84608,7 @@ Children:
         - Name: DynamicLink
           Type: DynamicLink
           DataType: NodePath
-          Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+          Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
       - Name: Area
         Type: BaseDataVariableType
         DataType: String
@@ -84999,7 +84999,7 @@ Children:
         - Name: DynamicLink
           Type: DynamicLink
           DataType: NodePath
-          Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+          Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
       - Name: Area
         Type: BaseDataVariableType
         DataType: String
@@ -85390,7 +85390,7 @@ Children:
         - Name: DynamicLink
           Type: DynamicLink
           DataType: NodePath
-          Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+          Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
       - Name: Area
         Type: BaseDataVariableType
         DataType: String
@@ -85781,7 +85781,7 @@ Children:
         - Name: DynamicLink
           Type: DynamicLink
           DataType: NodePath
-          Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+          Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
       - Name: Area
         Type: BaseDataVariableType
         DataType: String
@@ -86172,7 +86172,7 @@ Children:
         - Name: DynamicLink
           Type: DynamicLink
           DataType: NodePath
-          Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+          Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
       - Name: Area
         Type: BaseDataVariableType
         DataType: String
@@ -86563,7 +86563,7 @@ Children:
       - Name: DynamicLink
         Type: DynamicLink
         DataType: NodePath
-        Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+        Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
     - Name: Area
       Type: BaseDataVariableType
       DataType: String
@@ -87021,7 +87021,7 @@ Children:
       - Name: DynamicLink
         Type: DynamicLink
         DataType: NodePath
-        Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+        Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
     - Name: Area
       Type: BaseDataVariableType
       DataType: String
@@ -87479,7 +87479,7 @@ Children:
       - Name: DynamicLink
         Type: DynamicLink
         DataType: NodePath
-        Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+        Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
     - Name: Area
       Type: BaseDataVariableType
       DataType: String
@@ -88081,7 +88081,7 @@ Children:
             - Name: DynamicLink
               Type: DynamicLink
               DataType: NodePath
-              Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+              Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
     - Name: SelectedItem
       Type: NodePointer
       DataType: NodeId
@@ -88278,7 +88278,7 @@ Children:
             - Name: DynamicLink
               Type: DynamicLink
               DataType: NodePath
-              Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+              Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
     - Name: SelectedItem
       Type: NodePointer
       DataType: NodeId
@@ -88475,7 +88475,7 @@ Children:
             - Name: DynamicLink
               Type: DynamicLink
               DataType: NodePath
-              Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+              Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
     - Name: SelectedItem
       Type: NodePointer
       DataType: NodeId
@@ -88672,7 +88672,7 @@ Children:
             - Name: DynamicLink
               Type: DynamicLink
               DataType: NodePath
-              Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+              Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
     - Name: SelectedItem
       Type: NodePointer
       DataType: NodeId
@@ -88869,7 +88869,7 @@ Children:
             - Name: DynamicLink
               Type: DynamicLink
               DataType: NodePath
-              Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+              Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
     - Name: SelectedItem
       Type: NodePointer
       DataType: NodeId
@@ -89093,7 +89093,7 @@ Children:
             - Name: DynamicLink
               Type: DynamicLink
               DataType: NodePath
-              Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+              Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
     - Name: Width
       Type: BaseVariableType
       DataType: Size
@@ -89177,7 +89177,7 @@ Children:
               Type: BaseDataVariableType
               DataType: VariablePointer
               Description: {"NamespaceIndex":7,"TextId":"SetVariableToModifyDescription"}
-              Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+              Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
             - Name: Value
               Type: BaseDataVariableType
               DataType: String
@@ -89297,7 +89297,7 @@ Children:
               Type: BaseDataVariableType
               DataType: VariablePointer
               Description: {"NamespaceIndex":7,"TextId":"SetVariableToModifyDescription"}
-              Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+              Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
             - Name: Value
               Type: BaseDataVariableType
               DataType: String
@@ -90183,7 +90183,7 @@ Children:
               Type: BaseDataVariableType
               DataType: VariablePointer
               Description: {"NamespaceIndex":7,"TextId":"SetVariableToModifyDescription"}
-              Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+              Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
             - Name: Value
               Type: BaseDataVariableType
               DataType: String
@@ -90303,7 +90303,7 @@ Children:
               Type: BaseDataVariableType
               DataType: VariablePointer
               Description: {"NamespaceIndex":7,"TextId":"SetVariableToModifyDescription"}
-              Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+              Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
             - Name: Value
               Type: BaseDataVariableType
               DataType: String
@@ -91189,7 +91189,7 @@ Children:
               Type: BaseDataVariableType
               DataType: VariablePointer
               Description: {"NamespaceIndex":7,"TextId":"SetVariableToModifyDescription"}
-              Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+              Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
             - Name: Value
               Type: BaseDataVariableType
               DataType: String
@@ -91309,7 +91309,7 @@ Children:
               Type: BaseDataVariableType
               DataType: VariablePointer
               Description: {"NamespaceIndex":7,"TextId":"SetVariableToModifyDescription"}
-              Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+              Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
             - Name: Value
               Type: BaseDataVariableType
               DataType: String
@@ -91853,7 +91853,7 @@ Children:
         - Name: DynamicLink
           Type: DynamicLink
           DataType: NodePath
-          Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+          Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
           Children:
           - Name: Mode
             Type: BaseVariableType
@@ -95150,7 +95150,7 @@ Children:
         - Name: DynamicLink
           Type: DynamicLink
           DataType: NodePath
-          Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+          Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
           Children:
           - Name: Mode
             Type: BaseVariableType
@@ -104531,7 +104531,7 @@ Children:
         - Name: DynamicLink
           Type: DynamicLink
           DataType: NodePath
-          Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+          Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
       - Name: Area
         Type: BaseDataVariableType
         DataType: String
@@ -104831,7 +104831,7 @@ Children:
         - Name: DynamicLink
           Type: DynamicLink
           DataType: NodePath
-          Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+          Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
       - Name: Area
         Type: BaseDataVariableType
         DataType: String
@@ -105114,7 +105114,7 @@ Children:
         - Name: DynamicLink
           Type: DynamicLink
           DataType: NodePath
-          Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+          Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
       - Name: Area
         Type: BaseDataVariableType
         DataType: String
@@ -105397,7 +105397,7 @@ Children:
         - Name: DynamicLink
           Type: DynamicLink
           DataType: NodePath
-          Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+          Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
       - Name: Area
         Type: BaseDataVariableType
         DataType: String
@@ -105697,7 +105697,7 @@ Children:
         - Name: DynamicLink
           Type: DynamicLink
           DataType: NodePath
-          Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+          Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
       - Name: Area
         Type: BaseDataVariableType
         DataType: String
@@ -105997,7 +105997,7 @@ Children:
         - Name: DynamicLink
           Type: DynamicLink
           DataType: NodePath
-          Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+          Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
       - Name: Area
         Type: BaseDataVariableType
         DataType: String
@@ -107240,7 +107240,7 @@ Children:
               - Name: DynamicLink
                 Type: DynamicLink
                 DataType: NodePath
-                Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+                Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
         - Name: Color
           Type: BaseDataVariableType
           DataType: Color
@@ -107286,7 +107286,7 @@ Children:
               - Name: DynamicLink
                 Type: DynamicLink
                 DataType: NodePath
-                Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+                Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
         - Name: Color
           Type: BaseDataVariableType
           DataType: Color
@@ -107337,7 +107337,7 @@ Children:
               - Name: DynamicLink
                 Type: DynamicLink
                 DataType: NodePath
-                Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+                Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
       - Name: Waste_Conductivity
         Type: TrendPen
         DataType: Float
@@ -107383,7 +107383,7 @@ Children:
               - Name: DynamicLink
                 Type: DynamicLink
                 DataType: NodePath
-                Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+                Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
         - Name: ns=9;YAxis
           Type: ValueAxis
           Children:
@@ -107469,7 +107469,7 @@ Children:
               - Name: DynamicLink
                 Type: DynamicLink
                 DataType: NodePath
-                Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+                Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
       - Name: 'Unit_2_Step_#'
         Type: TrendPen
         DataType: Float
@@ -107535,7 +107535,7 @@ Children:
               - Name: DynamicLink
                 Type: DynamicLink
                 DataType: NodePath
-                Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+                Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
     - Class: Reference
       Target: ns=9;i=1129
       Direction: Forward
@@ -107588,7 +107588,7 @@ Children:
               - Name: DynamicLink
                 Type: DynamicLink
                 DataType: NodePath
-                Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+                Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
       - Name: MaxValue
         Type: BaseDataVariableType
         DataType: Size
@@ -107615,7 +107615,7 @@ Children:
               - Name: DynamicLink
                 Type: DynamicLink
                 DataType: NodePath
-                Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+                Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
       - Name: AutoScale
         Type: BaseDataVariableType
         DataType: Boolean
@@ -107691,7 +107691,7 @@ Children:
             - Name: DynamicLink
               Type: DynamicLink
               DataType: NodePath
-              Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+              Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
   - Name: Button1
     Type: Button
     Children:
@@ -108493,7 +108493,7 @@ Children:
             - Name: DynamicLink
               Type: DynamicLink
               DataType: NodePath
-              Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+              Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
     - Name: Rectangle3
       Type: Rectangle
     - Name: Rectangle1
@@ -109672,7 +109672,7 @@ Children:
           - Name: Panel
             Type: NodePointer
             DataType: NodeId
-            Value: "/Objects/IXOM_Client_HMI4/UI/Widgets/NetworkSettingsWidget/NetworkSettingsWidget"
+            Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Widgets/NetworkSettingsWidget/NetworkSettingsWidget"
             Children:
             - Name: Kind
               Type: PropertyType
@@ -109688,7 +109688,7 @@ Children:
           - Name: Panel
             Type: NodePointer
             DataType: NodeId
-            Value: "/Objects/IXOM_Client_HMI4/UI/Widgets/DeviceSettingsWidget/DeviceSettingsWidget"
+            Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Widgets/DeviceSettingsWidget/DeviceSettingsWidget"
             Children:
             - Name: Kind
               Type: PropertyType
@@ -109704,7 +109704,7 @@ Children:
           - Name: Panel
             Type: NodePointer
             DataType: NodeId
-            Value: "/Objects/IXOM_Client_HMI4/UI/Widgets/LoadApplicationWidget/LoadApplicationWidget"
+            Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Widgets/LoadApplicationWidget/LoadApplicationWidget"
             Children:
             - Name: Kind
               Type: PropertyType
@@ -109720,7 +109720,7 @@ Children:
           - Name: Panel
             Type: NodePointer
             DataType: NodeId
-            Value: "/Objects/IXOM_Client_HMI4/UI/Widgets/FTRemoteAccessWidget/FTRemoteAccessWidget"
+            Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Widgets/FTRemoteAccessWidget/FTRemoteAccessWidget"
             Children:
             - Name: Kind
               Type: PropertyType

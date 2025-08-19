@@ -76,7 +76,7 @@ Children:
     - Name: DynamicLink
       Type: DynamicLink
       DataType: NodePath
-      Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+      Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
       Children:
       - Name: Mode
         Type: BaseVariableType
@@ -1097,7 +1097,7 @@ Children:
     - Name: DynamicLink
       Type: DynamicLink
       DataType: NodePath
-      Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+      Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
       Children:
       - Name: Mode
         Type: BaseVariableType

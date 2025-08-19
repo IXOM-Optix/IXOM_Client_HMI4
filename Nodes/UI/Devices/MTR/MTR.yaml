@@ -32,7 +32,7 @@ Children:
       - Name: DynamicLink1
         Type: DynamicLink
         DataType: NodePath
-        Value: "/Objects/IXOM_Client_HMI4/UI/Model/Rewind/UTC_DateTime"
+        Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/Rewind/UTC_DateTime"
         Children:
         - Name: Mode
           Type: BaseVariableType
@@ -48,7 +48,7 @@ Children:
     - Name: DynamicLink1
       Type: DynamicLink
       DataType: NodePath
-      Value: "/Objects/IXOM_Client_HMI4/UI/Model/Rewind/Enable"
+      Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/Rewind/Enable"
       Children:
       - Name: Mode
         Type: BaseVariableType
@@ -196,7 +196,7 @@ Children:
         - Name: DynamicLink1
           Type: DynamicLink
           DataType: NodePath
-          Value: "/Objects/IXOM_Client_HMI4/UI/Model/Rewind/UTC_DateTime"
+          Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/Rewind/UTC_DateTime"
       - Name: STS
         Type: BaseDataVariableType
         DataType: Int16
@@ -206,7 +206,7 @@ Children:
       - Name: DynamicLink1
         Type: DynamicLink
         DataType: NodePath
-        Value: "/Objects/IXOM_Client_HMI4/UI/Model/Rewind/Enable"
+        Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/Rewind/Enable"
     - Name: STS
       Type: BaseDataVariableType
       DataType: Int16
@@ -912,7 +912,7 @@ Children:
       - Name: DynamicLink
         Type: DynamicLink
         DataType: NodePath
-        Value: "/Objects/IXOM_Client_HMI4/UI/Model/Data_Management/Sampling period"
+        Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/Data_Management/Sampling period"
         Children:
         - Name: Mode
           Type: BaseVariableType
@@ -927,7 +927,7 @@ Children:
       - Name: DynamicLink
         Type: DynamicLink
         DataType: NodePath
-        Value: "/Objects/IXOM_Client_HMI4/UI/Model/Data_Management/Polling Time"
+        Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/Data_Management/Polling Time"
         Children:
         - Name: Mode
           Type: BaseVariableType
@@ -999,7 +999,7 @@ Children:
       - Name: DynamicLink
         Type: DynamicLink
         DataType: NodePath
-        Value: "/Objects/IXOM_Client_HMI4/UI/Model/Data_Management/Polling Time"
+        Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/Data_Management/Polling Time"
         Children:
         - Name: Mode
           Type: BaseVariableType
@@ -1029,7 +1029,7 @@ Children:
     - Name: DynamicLink
       Type: DynamicLink
       DataType: NodePath
-      Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+      Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
       Children:
       - Name: Mode
         Type: BaseVariableType
@@ -2327,7 +2327,7 @@ Children:
     - Name: DynamicLink
       Type: DynamicLink
       DataType: NodePath
-      Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+      Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
       Children:
       - Name: Mode
         Type: BaseVariableType
@@ -4008,7 +4008,7 @@ Children:
     - Name: DynamicLink
       Type: DynamicLink
       DataType: NodePath
-      Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+      Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
       Children:
       - Name: Mode
         Type: BaseVariableType
@@ -5548,7 +5548,7 @@ Children:
     - Name: DynamicLink
       Type: DynamicLink
       DataType: NodePath
-      Value: "/Objects/IXOM_Client_HMI4/UI/Model/PLC_Name"
+      Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/PLC_Name"
       Children:
       - Name: Mode
         Type: BaseVariableType
