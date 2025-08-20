@@ -982,7 +982,6 @@ Children:
         ArrayDimensions: [0]
         Value: [{"TypeId":{"Id":296},"Body":{"Name":"table","DataType":{"Id":17},"ValueRank":-1,"ArrayDimensions":[],"Description":{"NamespaceIndex":-1,"LocaleId":"","Text":""}}},{"TypeId":{"Id":296},"Body":{"Name":"date","DataType":{"Id":13},"ValueRank":-1,"ArrayDimensions":[],"Description":{"NamespaceIndex":-1,"LocaleId":"","Text":""}}}]
 - Name: AB_MagnaPak
-  Id: g=31f22f933755e7bb6fb571169be841e6
   Type: SQLiteStore
   Children:
   - Name: Tables
@@ -1260,7 +1259,6 @@ Children:
     Type: BaseDataVariableType
     DataType: Boolean
   - Name: Insert_Resin_Concentration
-    Id: g=2a847015e5c8270a6f6d2258baf85701
     Type: NetLogic
     Children:
     - Class: Method
