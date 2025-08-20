@@ -6,6 +6,32 @@ Children:
   Type: BaseDataVariableType
   DataType: String
   Value: "192.168.1.98"
+  Children:
+  - Name: DynamicLink
+    Type: DynamicLink
+    DataType: NodePath
+    Children:
+    - Name: Mode
+      Type: BaseVariableType
+      DataType: DynamicLinkMode
+      Value: 2
+    - Name: DynamicLinkFormatter
+      Type: StringFormatter
+      Children:
+      - Name: Format
+        Type: BaseDataVariableType
+        DataType: LocalizedText
+        ReferenceType: HasParameter
+        Value: {"LocaleId":"","Text":"../../../../Deployment/{0}/PLC/IP_Address"}
+      - Name: ns=7;Source0
+        Type: BaseDataVariableType
+        DataType: BaseDataType
+        ReferenceType: HasSource
+        Children:
+        - Name: DynamicLink
+          Type: DynamicLink
+          DataType: NodePath
+          Value: "../../../..@BrowseName"
 - Name: StationStatusVariables
   Type: PropertyGroup
   Children:
