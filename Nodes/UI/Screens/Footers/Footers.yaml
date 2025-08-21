@@ -21431,6 +21431,11 @@ Children:
       DataType: Size
       ModellingRule: Optional
       Value: 49.0
+    - Name: FontSize
+      Type: BaseDataVariableType
+      DataType: Size
+      ModellingRule: Optional
+      Value: 20.0
   - Name: Label2
     Type: Label
     Children:
@@ -21496,6 +21501,11 @@ Children:
       DataType: Size
       ModellingRule: Optional
       Value: 33.0
+    - Name: FontSize
+      Type: BaseDataVariableType
+      DataType: Size
+      ModellingRule: Optional
+      Value: 20.0
 - Name: Launch_Option
   Id: g=a9f93f00ca9a52094a98cf7a286adadb
   Supertype: Panel

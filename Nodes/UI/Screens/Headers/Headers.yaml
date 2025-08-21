@@ -1571,7 +1571,7 @@ Children:
       Type: BaseVariableType
       DataType: Size
       ModellingRule: Optional
-      Value: 75.0
+      Value: 100.0
     - Name: VerticalAlignment
       Type: BaseVariableType
       DataType: VerticalAlignment
@@ -1581,7 +1581,7 @@ Children:
       Type: BaseDataVariableType
       DataType: ResourceUri
       ModellingRule: Optional
-      Value: "file:///C:/Users/clint/Documents/Rockwell Automation/FactoryTalk Optix/Projects/IXOM_3/ProjectFiles/res/Alarm_Enable_Icon_border.svg"
+      Value: "ns=36;%PROJECTDIR%/res/Play2_ELEMENT_1.svg"
     - Name: Height
       Type: BaseVariableType
       DataType: Size
@@ -1891,7 +1891,7 @@ Children:
       Type: BaseVariableType
       DataType: Size
       ModellingRule: Optional
-      Value: 100.0
+      Value: 110.0
     - Name: Height
       Type: BaseVariableType
       DataType: Size
@@ -3237,32 +3237,6 @@ Children:
       DataType: Size
       ModellingRule: Optional
       Value: 5.0
-  - Name: Label1
-    Type: Label
-    Children:
-    - Name: Text
-      Type: BaseDataVariableType
-      DataType: LocalizedText
-      Children:
-      - Name: DynamicLink
-        Type: DynamicLink
-        DataType: NodePath
-        Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/Rewind/Local_DateTime"
-    - Name: LeftMargin
-      Type: BaseVariableType
-      DataType: Size
-      ModellingRule: Optional
-      Value: 261.0
-    - Name: TopMargin
-      Type: BaseVariableType
-      DataType: Size
-      ModellingRule: Optional
-      Value: 10.0
-    - Name: Width
-      Type: BaseVariableType
-      DataType: Size
-      ModellingRule: Optional
-      Value: 169.0
   - Name: Label2
     Type: Label
     Children:
@@ -3283,7 +3257,33 @@ Children:
       Type: BaseVariableType
       DataType: Size
       ModellingRule: Optional
-      Value: 16.0
+      Value: -44.0
+    - Name: Width
+      Type: BaseVariableType
+      DataType: Size
+      ModellingRule: Optional
+      Value: 169.0
+  - Name: Label1
+    Type: Label
+    Children:
+    - Name: Text
+      Type: BaseDataVariableType
+      DataType: LocalizedText
+      Children:
+      - Name: DynamicLink
+        Type: DynamicLink
+        DataType: NodePath
+        Value: "/Objects/IXOM_Client_HMI4/UI/Devices/Model/Rewind/Local_DateTime"
+    - Name: LeftMargin
+      Type: BaseVariableType
+      DataType: Size
+      ModellingRule: Optional
+      Value: 261.0
+    - Name: TopMargin
+      Type: BaseVariableType
+      DataType: Size
+      ModellingRule: Optional
+      Value: -50.0
     - Name: Width
       Type: BaseVariableType
       DataType: Size

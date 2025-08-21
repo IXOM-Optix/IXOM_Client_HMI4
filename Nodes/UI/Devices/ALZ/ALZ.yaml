@@ -2794,7 +2794,7 @@ Children:
       Type: BaseVariableType
       DataType: Size
       ModellingRule: Optional
-      Value: 55.0
+      Value: 54.0
     - Name: TabPosition
       Type: BaseVariableType
       DataType: NavigationPanelTabPositionEnum
@@ -2814,7 +2814,6 @@ Children:
       Type: BaseVariableType
       DataType: Size
       ModellingRule: Optional
-      Value: 1.0
     - Name: HorizontalAlignment
       Type: BaseVariableType
       DataType: HorizontalAlignment
